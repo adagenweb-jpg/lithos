@@ -1,0 +1,1130 @@
+[
+ {
+  "slug": "nature",
+  "titulo": "Nature",
+  "categoria": "residenciais",
+  "ano": 2019,
+  "area": "2.117m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-01.jpg",
+   "width": 900,
+   "height": 800
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-01.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-02.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-03.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-04.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-05.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-06.jpg",
+    "width": 900,
+    "height": 700
+   }
+  ]
+ },
+ {
+  "slug": "vista-mar",
+  "titulo": "Vista Mar",
+  "categoria": "edificios",
+  "ano": 2020,
+  "area": "3.434m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-02.jpg",
+   "width": 900,
+   "height": 1100
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-02.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-03.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-04.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-05.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-06.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-07.jpg",
+    "width": 900,
+    "height": 700
+   }
+  ]
+ },
+ {
+  "slug": "prainha",
+  "titulo": "Prainha",
+  "categoria": "condominios",
+  "ano": 2021,
+  "area": "4.751m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-03.jpg",
+   "width": 900,
+   "height": 900
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-03.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-04.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-05.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-06.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-07.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-08.jpg",
+    "width": 900,
+    "height": 700
+   }
+  ]
+ },
+ {
+  "slug": "guarita",
+  "titulo": "Guarita",
+  "categoria": "comerciais",
+  "ano": 2022,
+  "area": "6.068m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-04.jpg",
+   "width": 900,
+   "height": 800
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-04.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-05.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-06.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-07.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-08.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-09.jpg",
+    "width": 900,
+    "height": 1300
+   }
+  ]
+ },
+ {
+  "slug": "molhes",
+  "titulo": "Molhes",
+  "categoria": "interiores",
+  "ano": 2023,
+  "area": "7.385m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "incorporadora-sul",
+  "capa": {
+   "src": "/images/projetos/projeto-05.jpg",
+   "width": 900,
+   "height": 700
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-05.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-06.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-07.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-08.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-09.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-10.jpg",
+    "width": 900,
+    "height": 1300
+   }
+  ]
+ },
+ {
+  "slug": "itapeva",
+  "titulo": "Itapeva",
+  "categoria": "residenciais",
+  "ano": 2024,
+  "area": "8.702m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-06.jpg",
+   "width": 900,
+   "height": 700
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-06.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-07.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-08.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-09.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-10.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-11.jpg",
+    "width": 900,
+    "height": 600
+   }
+  ]
+ },
+ {
+  "slug": "cal",
+  "titulo": "Cal",
+  "categoria": "edificios",
+  "ano": 2018,
+  "area": "10.019m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-07.jpg",
+   "width": 900,
+   "height": 700
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-07.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-08.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-09.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-10.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-11.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-12.jpg",
+    "width": 900,
+    "height": 1600
+   }
+  ]
+ },
+ {
+  "slug": "lagoa",
+  "titulo": "Lagoa",
+  "categoria": "condominios",
+  "ano": 2019,
+  "area": "11.336m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-08.jpg",
+   "width": 900,
+   "height": 700
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-08.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-09.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-10.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-11.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-12.jpg",
+    "width": 900,
+    "height": 1600
+   },
+   {
+    "src": "/images/projetos/projeto-13.jpg",
+    "width": 900,
+    "height": 1100
+   }
+  ]
+ },
+ {
+  "slug": "farol",
+  "titulo": "Farol",
+  "categoria": "comerciais",
+  "ano": 2020,
+  "area": "12.653m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-09.jpg",
+   "width": 900,
+   "height": 1300
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-09.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-10.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-11.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-12.jpg",
+    "width": 900,
+    "height": 1600
+   },
+   {
+    "src": "/images/projetos/projeto-13.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-14.jpg",
+    "width": 900,
+    "height": 700
+   }
+  ]
+ },
+ {
+  "slug": "dunas",
+  "titulo": "Dunas",
+  "categoria": "interiores",
+  "ano": 2021,
+  "area": "13.970m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-10.jpg",
+   "width": 900,
+   "height": 1300
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-10.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-11.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-12.jpg",
+    "width": 900,
+    "height": 1600
+   },
+   {
+    "src": "/images/projetos/projeto-13.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-14.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-15.jpg",
+    "width": 900,
+    "height": 800
+   }
+  ]
+ },
+ {
+  "slug": "mirante",
+  "titulo": "Mirante",
+  "categoria": "residenciais",
+  "ano": 2022,
+  "area": "15.287m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "incorporadora-sul",
+  "capa": {
+   "src": "/images/projetos/projeto-11.jpg",
+   "width": 900,
+   "height": 600
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-11.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-12.jpg",
+    "width": 900,
+    "height": 1600
+   },
+   {
+    "src": "/images/projetos/projeto-13.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-14.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-15.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-16.jpg",
+    "width": 900,
+    "height": 1300
+   }
+  ]
+ },
+ {
+  "slug": "morro-do-farol",
+  "titulo": "Morro do Farol",
+  "categoria": "edificios",
+  "ano": 2023,
+  "area": "16.604m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-12.jpg",
+   "width": 900,
+   "height": 1600
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-12.jpg",
+    "width": 900,
+    "height": 1600
+   },
+   {
+    "src": "/images/projetos/projeto-13.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-14.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-15.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-16.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-17.jpg",
+    "width": 900,
+    "height": 1100
+   }
+  ]
+ },
+ {
+  "slug": "praia-grande",
+  "titulo": "Praia Grande",
+  "categoria": "condominios",
+  "ano": 2024,
+  "area": "17.921m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-13.jpg",
+   "width": 900,
+   "height": 1100
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-13.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-14.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-15.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-16.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-17.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-18.jpg",
+    "width": 900,
+    "height": 800
+   }
+  ]
+ },
+ {
+  "slug": "riviera",
+  "titulo": "Riviera",
+  "categoria": "comerciais",
+  "ano": 2018,
+  "area": "19.238m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-14.jpg",
+   "width": 900,
+   "height": 700
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-14.jpg",
+    "width": 900,
+    "height": 700
+   },
+   {
+    "src": "/images/projetos/projeto-15.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-16.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-17.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-18.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-19.jpg",
+    "width": 900,
+    "height": 900
+   }
+  ]
+ },
+ {
+  "slug": "paredão",
+  "titulo": "Paredão",
+  "categoria": "interiores",
+  "ano": 2019,
+  "area": "20.555m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-15.jpg",
+   "width": 900,
+   "height": 800
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-15.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-16.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-17.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-18.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-19.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-20.jpg",
+    "width": 900,
+    "height": 600
+   }
+  ]
+ },
+ {
+  "slug": "ilha-dos-lobos",
+  "titulo": "Ilha dos Lobos",
+  "categoria": "residenciais",
+  "ano": 2020,
+  "area": "1.872m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-16.jpg",
+   "width": 900,
+   "height": 1300
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-16.jpg",
+    "width": 900,
+    "height": 1300
+   },
+   {
+    "src": "/images/projetos/projeto-17.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-18.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-19.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-20.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-21.jpg",
+    "width": 900,
+    "height": 900
+   }
+  ]
+ },
+ {
+  "slug": "atlântico",
+  "titulo": "Atlântico",
+  "categoria": "edificios",
+  "ano": 2021,
+  "area": "3.189m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "incorporadora-sul",
+  "capa": {
+   "src": "/images/projetos/projeto-17.jpg",
+   "width": 900,
+   "height": 1100
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-17.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-18.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-19.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-20.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-21.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-22.jpg",
+    "width": 900,
+    "height": 900
+   }
+  ]
+ },
+ {
+  "slug": "brisa",
+  "titulo": "Brisa",
+  "categoria": "condominios",
+  "ano": 2022,
+  "area": "4.506m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-18.jpg",
+   "width": 900,
+   "height": 800
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-18.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-19.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-20.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-21.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-22.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-23.jpg",
+    "width": 900,
+    "height": 600
+   }
+  ]
+ },
+ {
+  "slug": "costa-norte",
+  "titulo": "Costa Norte",
+  "categoria": "comerciais",
+  "ano": 2023,
+  "area": "5.823m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-19.jpg",
+   "width": 900,
+   "height": 900
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-19.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-20.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-21.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-22.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-23.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-24.jpg",
+    "width": 900,
+    "height": 900
+   }
+  ]
+ },
+ {
+  "slug": "jardim",
+  "titulo": "Jardim",
+  "categoria": "interiores",
+  "ano": 2024,
+  "area": "7.140m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-20.jpg",
+   "width": 900,
+   "height": 600
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-20.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-21.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-22.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-23.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-24.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-01.jpg",
+    "width": 900,
+    "height": 800
+   }
+  ]
+ },
+ {
+  "slug": "pet-place",
+  "titulo": "Pet Place",
+  "categoria": "residenciais",
+  "ano": 2018,
+  "area": "8.457m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-21.jpg",
+   "width": 900,
+   "height": 900
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-21.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-22.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-23.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-24.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-01.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-02.jpg",
+    "width": 900,
+    "height": 1100
+   }
+  ]
+ },
+ {
+  "slug": "skate-park",
+  "titulo": "Skate Park",
+  "categoria": "edificios",
+  "ano": 2019,
+  "area": "9.774m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "construtora-mar",
+  "capa": {
+   "src": "/images/projetos/projeto-22.jpg",
+   "width": 900,
+   "height": 900
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-22.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-23.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-24.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-01.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-02.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-03.jpg",
+    "width": 900,
+    "height": 900
+   }
+  ]
+ },
+ {
+  "slug": "piscina-club",
+  "titulo": "Piscina Club",
+  "categoria": "condominios",
+  "ano": 2020,
+  "area": "11.091m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "R Dimer",
+  "parceiroSlug": "incorporadora-sul",
+  "capa": {
+   "src": "/images/projetos/projeto-23.jpg",
+   "width": 900,
+   "height": 600
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-23.jpg",
+    "width": 900,
+    "height": 600
+   },
+   {
+    "src": "/images/projetos/projeto-24.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-01.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-02.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-03.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-04.jpg",
+    "width": 900,
+    "height": 800
+   }
+  ]
+ },
+ {
+  "slug": "terraço",
+  "titulo": "Terraço",
+  "categoria": "comerciais",
+  "ano": 2021,
+  "area": "12.408m²",
+  "localizacao": "Torres, RS, Brasil",
+  "cliente": "Construtora Mar",
+  "parceiroSlug": "r-dimer",
+  "capa": {
+   "src": "/images/projetos/projeto-24.jpg",
+   "width": 900,
+   "height": 900
+  },
+  "galeria": [
+   {
+    "src": "/images/projetos/projeto-24.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-01.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-02.jpg",
+    "width": 900,
+    "height": 1100
+   },
+   {
+    "src": "/images/projetos/projeto-03.jpg",
+    "width": 900,
+    "height": 900
+   },
+   {
+    "src": "/images/projetos/projeto-04.jpg",
+    "width": 900,
+    "height": 800
+   },
+   {
+    "src": "/images/projetos/projeto-05.jpg",
+    "width": 900,
+    "height": 700
+   }
+  ]
+ }
+]

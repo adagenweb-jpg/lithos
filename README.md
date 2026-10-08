@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lithos — site institucional
 
-## Getting Started
+Site da Lithos Arquitetura & Engenharia, feito em **Next.js 16 (App Router) + Tailwind CSS 4**, seguindo o layout do Adobe XD _Site - Lithos_.
+Depois virá um painel (`/admin`) só para o CRUD de projetos.
 
-First, run the development server:
+## Rodando
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm install
+pnpm dev        # http://localhost:3000
+pnpm build      # build de produção
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Páginas (telas do XD)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Rota | Tela do XD |
+| --- | --- |
+| `/` | Home — galeria em alvenaria com filtro por categoria |
+| `/portfolio` | Portfólio (mesma galeria) |
+| `/portfolio/[slug]` | Portfólio - Detalhes |
+| `/a-lithos` | Sobre (texto, fotos do escritório, O que fazemos, Sócios/Equipe, Prêmios) |
+| `/o-que-fazemos/[slug]` | O que fazemos |
+| `/parceiros` | Parceiros |
+| `/parceiros/[slug]` | Parceiros – Detalhes |
+| `/contato` | Contato (formulário com Server Action) |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Estrutura
 
-## Learn More
+```
+src/
+  app/                 rotas (uma pasta por tela)
+  components/          header, footer, galerias, cards, slider, formulário
+  lib/
+    types.ts           Projeto, Parceiro, Serviço, categorias
+    data.ts            funções getProjetos/getProjeto/... (hoje mock; amanhã banco)
+    site.ts            contatos, menu, textos do rodapé
+  data/projetos.json   projetos de exemplo
+  fonts/               Roboto variável (auto-hospedada, licença OFL)
+public/
+  brand/               logo-branco.png e logo-preto.png
+  images/              fotos de exemplo (placeholders)
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Design tokens (do XD)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Definidos em `src/app/globals.css` (`@theme`):
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Fonte: **Roboto** 400 / 500 / 700
+- Cores: `preto #000`, `branco #fff`, `cinza-claro #bebebe`, `cinza-medio #8f8f8f`, `cinza-texto #747474`, `cinza-escuro #5b5b5b`, `cinza-fundo #e6e6e6`
+- Letter-spacing do XD → `tracking-xd-25 / 50 / 100 / 200`
+- Canvas de 1920px; margens laterais `px-gutter` (140px) e `px-gutter-lg` (278px)
 
-## Deploy on Vercel
+## Pendências
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [ ] Logo definitivo (hoje: `public/brand/logo-*.png` gerados do PNG branco)
+- [ ] Trocar as fotos placeholder em `public/images/` pelas reais (exportar do XD)
+- [ ] Textos reais (Sobre, rodapé, prêmios — ainda lorem ipsum no XD)
+- [ ] Envio do formulário de contato (`src/app/contato/actions.ts`)
+- [ ] Painel `/admin` com CRUD de projetos → plugar em `src/lib/data.ts`
