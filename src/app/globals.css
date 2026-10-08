@@ -43,3 +43,22 @@
     @apply text-[14px] font-medium uppercase leading-[17px] tracking-xd-100;
   }
 }
+
+/* ---------- Splash / loading do logo ---------- */
+@keyframes splash-revela {
+  from { clip-path: inset(0 100% 0 0); }
+  to { clip-path: inset(0 0 0 0); }
+}
+@keyframes splash-seguranca {
+  to { opacity: 0; visibility: hidden; }
+}
+.splash-logo {
+  animation: splash-revela 1.3s cubic-bezier(0.65, 0, 0.35, 1) 0.15s both;
+}
+/* se o JavaScript falhar, o splash some sozinho depois de 5s */
+.splash {
+  animation: splash-seguranca 0.6s ease-out 5s forwards;
+}
+@media (prefers-reduced-motion: reduce) {
+  .splash-logo { animation: none; }
+}

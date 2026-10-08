@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { WhatsAppButton } from "@/components/whatsapp-button";
+import { SplashLoader } from "@/components/splash-loader";
 import { site } from "@/lib/site";
 import "./globals.css";
 
@@ -23,6 +24,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="pt-BR" className={roboto.variable}>
       <body className="flex min-h-screen flex-col">
+        <SplashLoader />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
