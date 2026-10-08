@@ -57,3 +57,4 @@ Definidos em `src/app/globals.css` (`@theme`):
 - [ ] Textos reais (Sobre, rodapé, prêmios — ainda lorem ipsum no XD)
 - [ ] Envio do formulário de contato (`src/app/contato/actions.ts`)
 - [ ] Painel `/admin` com CRUD de projetos → plugar em `src/lib/data.ts`
+# lithos
