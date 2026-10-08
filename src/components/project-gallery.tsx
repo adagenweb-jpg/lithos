@@ -34,7 +34,7 @@ export function ProjectGallery({ projetos, semFiltro }: Props) {
                   type="button"
                   onClick={() => setFiltro(f.slug)}
                   aria-pressed={filtro === f.slug}
-                  className={`nav-link transition-opacity hover:opacity-60 ${
+                  className={`nav-link cursor-pointer transition-opacity hover:opacity-60 ${
                     filtro === f.slug ? "font-bold" : ""
                   }`}
                 >

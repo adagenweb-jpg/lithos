@@ -16,7 +16,7 @@ export function Header() {
   const [aberto, setAberto] = useState(false);
 
   return (
-    <header className="sticky top-0 z-40 bg-branco">
+    <header className="sticky top-0 z-40 border-b border-cinza-fundo bg-branco">
       <div className="flex h-[94px] items-center justify-between px-gutter">
         <Link href="/" aria-label="Lithos - página inicial" className="shrink-0">
           <Image

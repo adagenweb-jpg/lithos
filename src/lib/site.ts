@@ -9,7 +9,7 @@ export const site = {
   endereco: "R. Joaquim Porto, 657 - 301, Centro | Torres - RS",
   rodapeTexto:
     "The company principle of Architecture-Studio is the collective conception. From the very beginning, the practice has believed in the virtues of exchange, crossing ideas, common effort, shared knowledge and enthusiasm.",
-  credito: { nome: "Hugs - Agência de Publicidade", url: "#" },
+  credito: { nome: "Adagen - Web Design", url: "https://adagen.com.br" },
 };
 
 export const navegacao = [

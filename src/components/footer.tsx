@@ -1,6 +1,6 @@
+import { site } from "@/lib/site";
 import Image from "next/image";
 import Link from "next/link";
-import { site } from "@/lib/site";
 
 export function Footer() {
   return (
@@ -42,7 +42,7 @@ export function Footer() {
 
         <p className="mt-12 text-[14px] font-medium leading-[26px] text-branco">
           Desenvolvido por{" "}
-          <Link href={site.credito.url} className="hover:underline">
+          <Link href={site.credito.url} target="_blank" className="hover:underline">
             {site.credito.nome}
           </Link>
         </p>

@@ -30,6 +30,11 @@
   body {
     @apply bg-branco text-preto font-sans;
   }
+  /* Tailwind 4 deixa botões com cursor padrão; aqui todos ficam com "mãozinha" */
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
 }
 
 @layer components {
