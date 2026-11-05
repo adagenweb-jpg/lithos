@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { BannerSlider } from "@/components/banner-slider";
-import { getServicos, premios, sobreTexto } from "@/lib/data";
+import { equipeTexto, getServicos, premios, sobreFechamento, sobreIntro, sociosTexto } from "@/lib/data";
 
 export const metadata: Metadata = { title: "A Lithos" };
 
@@ -27,7 +27,7 @@ export default async function SobrePage() {
 
       {/* Intro + fotos do escritório (coluna de 1088px) */}
       <section className="mx-auto max-w-[1088px] px-4 pt-14 md:px-0 md:pt-[100px]">
-        <Texto paragrafos={sobreTexto} />
+        <Texto paragrafos={sobreIntro} />
 
         <div className="mt-16 grid gap-4 md:mt-[100px] md:grid-cols-[398fr_674fr]">
           <Foto src={escritorio(1)} className="md:col-span-2 md:aspect-[1088/495]" />
@@ -37,7 +37,7 @@ export default async function SobrePage() {
         </div>
 
         <div className="mt-16 md:mt-[100px]">
-          <Texto paragrafos={sobreTexto.slice(0, 2)} />
+          <Texto paragrafos={sobreFechamento} />
         </div>
       </section>
 
@@ -72,13 +72,14 @@ export default async function SobrePage() {
       <div className="mt-20 md:mt-[100px]">
         <BannerSlider
           slides={[
-            { titulo: "Sócios", texto: sobreTexto[0], imagem: { src: "/images/banners/socios.jpg", width: 1920, height: 680 } },
-            { titulo: "Equipe", texto: sobreTexto[0], imagem: { src: "/images/banners/equipe.jpg", width: 1920, height: 680 } },
+            { titulo: "Sócios", texto: sociosTexto, imagem: { src: "/images/banners/socios.jpg", width: 1920, height: 680 } },
+            { titulo: "Equipe", texto: equipeTexto, imagem: { src: "/images/banners/equipe.jpg", width: 1920, height: 680 } },
           ]}
         />
       </div>
 
-      {/* Prêmios */}
+      {/* Prêmios — só aparece quando houver prêmios cadastrados em src/lib/data.ts */}
+      {premios.length > 0 && (
       <section className="mx-auto max-w-[1158px] px-4 py-20 md:px-0 md:pt-[132px] md:pb-[150px]">
         <h2 className="text-center text-[34px] font-medium leading-[32px] tracking-xd-25">Prêmios</h2>
         <ul className="mt-14 grid gap-x-10 gap-y-16 md:mt-[67px] md:grid-cols-2 md:gap-y-[82px]">
@@ -94,6 +95,8 @@ export default async function SobrePage() {
           ))}
         </ul>
       </section>
+      )}
+      {premios.length === 0 && <div className="pb-20 md:pb-[150px]" />}
     </>
   );
 }
